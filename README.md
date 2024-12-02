@@ -66,7 +66,7 @@ The average ROUGE scores across the validation set were as follows:
   - METEOR: 0.2642
   - BERTScore: 0.8621
 
-### Visualization
+### Visualization 
 
 We created bar plots to visualize the ROUGE, BLEU, METEOR, and BERTScore metrics for each model, clearly showing BART's superior performance, followed by Pegasus and then T5.
 
